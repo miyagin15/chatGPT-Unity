@@ -1,0 +1,68 @@
+"https://pics.prcm.jp/afdbb528d35af/84645418/png/84645418_220x274.png"
+この画像を取得して、Unityで表示させてください。
+Unityのversionは2022.2.10です。
+エラーが発生しないことを確認してから回答してください。
+
+
+# 条件
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Networking;
+using UnityEngine.Profiling;
+using System.IO;
+using UnityEditor;
+をコードの最初に書いてください。
+
+
+以下のようなエラーが発生しないようにしてください
+・UnityWebRequestTexture doesn't exist
+・The name 'UnityWebRequestTexture' does not exist in the current context
+・The name 'DownloadHandlerTexture' does not exist in the current context
+・cannot convert from 'bool' to 'UnityEngine.Experimental.Rendering.TextureCreationFlags'
+・cannot convert from 'UnityEngine.TextureFormat' to 'UnityEngine.Experimental.Rendering.DefaultFormat'
+・The type name 'WWW' could not be found in the namespace 'UnityEngine'. This type has been forwarded to assembly 'UnityEngine.UnityWebRequestWWWModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' Enable the built in package 'Unity Web Request WWW' in the Package Manage
+
+
+
+
+
+
+You are a Professional building designer. 
+I want you to Create a 3D model similar to the Tokyo Tower on the plane. 
+You can use a lot of cubes, Cylinders, Sphere and so on.
+
+
+You are a Professional building designer. I want you to Create a 3D model similar to the statue of liberty on the plane. For doing that, you have to use over 100 objects.
+(includng Cubes, Cylinders, Sphere and so on).
+
+
+You mustn't use the namespaces of 'MenuItemAttribute' and 'MenuItem'  in the code
+
+マリオに見えるモザイクアートを作ってください。
+
+#条件
+using UnityEditor;
+using UnityEngine;
+using System.Collections;
+using UnityEngine.Networking;
+をコードの最初に使うこと。
+
+・prefabを使わないこと
+・Assetのloadをしないこと
+・cubeを100から1000個使うこと
+
+
+
+you can use some coloers such as blue, read, yellow, black, gray and so on.
+
+You are a bee. I want you to create a honeycomb similar to the honeycomb structure.  For creating it, you must use over 30 Cubes, Cylinders, Spheres and so on.
+
+
+あなたはミツバチです。ハニカム構造の蜂の巣を作ってください。 その蜂の巣は30個以上のCube、Cylinders、Spheresで構成してください。
+
+
+あなたはミツバチです。ハニカム構造の蜂の巣を作ってください。 絶対守って欲しいことして、500個以上のCube、Cylinders、Spheresを組み合わせてその蜂の巣を作ってください。
+
+
+東京の3Dモデルを新しく作ってください。条件は、500個以上のCubeとCylindersとSpheresを組み合わせること、東京タワーを作ること、スカイツリーを作ることです。
